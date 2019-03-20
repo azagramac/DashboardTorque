@@ -23,7 +23,7 @@
 - **AFR** = Shows the fuel and air mixture, should give a value 14.7
 - **Lambda λ** = Lambda factor, the value should be 1.0%
 - **LTFT (Long Term Fuel Trim)** = Actually it is an adjustment due to the calculated wear of the injector over time. Simply to compensate for aging. Normal value ± 10%.
-- **STFT (Short Term Fuel Trim)** = Short term fuel adjustment, The final value of Fuel trim is the sum of both values, and can be a positive value (adds fuel) or a negative value (subtracts fuel).
+- **STFT (Short Term Fuel Trim)** = Short term fuel adjustment, The final value of Fuel trim is the sum of both values, and can be a positive value (adds fuel) or a negative value (subtracts fuel), normal value ± 0%.
 - **MAF** = Mass Air Flow sensor, value 4-10g/s slow motion, to 230g/s at the time of entering 1st gear. (approximate values)
 
 <p align="center">
