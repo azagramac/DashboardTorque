@@ -13,7 +13,7 @@
 - Copy file .dash to root memory Android Phone, path /memory internal/.torque/dashboards/
 - Open App Torque, Realtime Information / Settings / Layout settings / Import layout
 
-<p
+<p> 
 <img src="images/001.jpg" alt="JPG 01" height="500" />
 <img src="images/002.jpg" alt="JPG 02" height="500" />
 <img src="images/003.jpg" alt="JPG 03" height="500" />
@@ -26,6 +26,6 @@
 - **STFT (Short Term Fuel Trim)** = Short term fuel adjustment, The final value of Fuel trim is the sum of both values, and can be a positive value (adds fuel) or a negative value (subtracts fuel).
 
 <p align="center">
-        <img src="images/map.gif" alt="JPG" height="350" />
+        <img src="images/map.gif" alt="GIF" height="350" />
 </p>
 
