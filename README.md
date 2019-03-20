@@ -27,6 +27,9 @@
 - **MAF** = Mass Air Flow sensor, value 4-10g/s slow motion, to 230g/s at the time of entering 1st gear. (approximate values)
 
 <p align="center">
-        <img src="images/map.gif" alt="GIF" height="350" />
+	<img src="images/engine.gif" alt="GIF Engine" height="283" />
+</p>
+<p align="center">
+	<img src="images/map.gif" alt="GIF Map" height="350" />
 </p>
 
