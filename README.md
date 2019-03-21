@@ -9,7 +9,7 @@
 
 ## Installing dashboard
 - Download App Torque Pro from [Google Play](https://play.google.com/store/apps/details?id=org.prowl.torque)
-- Download [Dashboard.dash](https://github.com/AzagraMac/DashboardTorque/blob/master/Dashboard.dash) file
+- Download file .dash, [Link](https://github.com/AzagraMac/DashboardTorque/releases)
 - Copy file .dash to root memory Android Phone, path */memory internal/.torque/dashboards/*
 - Open App Torque, *Realtime Information / Settings / Layout settings / Import layout*
 
