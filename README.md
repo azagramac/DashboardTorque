@@ -2,7 +2,7 @@
 
 # Dashboard for App Torque
 <p align="center">
-	<img src="images/screenshot.jpg" alt="JPG" height="800" />
+	<img src="images/preview_v1.2.jpg" alt="JPG" height="800" />
 </p>
 
 
